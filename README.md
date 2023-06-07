@@ -1,4 +1,4 @@
-#First time Syntax highlightinh#
+# First time Syntax highlightinh #
 ```css 
 my first readme
 ```
